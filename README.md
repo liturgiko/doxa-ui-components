@@ -1,2 +1,2 @@
 # doxaui
-Web browser user interface for Doxa
+React JS components for the Dox Web User Interface
